@@ -8,23 +8,23 @@ self.__precacheManifest = [
     "url": "/wether-app/static/js/runtime~main.6bcf09b9.js"
   },
   {
-    "revision": "d3ad93fe81b18ca0ba38",
-    "url": "/wether-app/static/js/main.d3ad93fe.chunk.js"
+    "revision": "fa6ff35be85d756770c8",
+    "url": "/wether-app/static/js/main.fa6ff35b.chunk.js"
   },
   {
     "revision": "ce661b17c263758ce12d",
     "url": "/wether-app/static/js/2.ce661b17.chunk.js"
   },
   {
-    "revision": "d3ad93fe81b18ca0ba38",
-    "url": "/wether-app/static/css/main.b0e5edd0.chunk.css"
+    "revision": "fa6ff35be85d756770c8",
+    "url": "/wether-app/static/css/main.49ac29c6.chunk.css"
   },
   {
     "revision": "ce661b17c263758ce12d",
     "url": "/wether-app/static/css/2.d7ce36fe.chunk.css"
   },
   {
-    "revision": "30c9528175551f7939287d6b7d8f4cb5",
+    "revision": "ac0c287893f8de58dce66bf4077899fc",
     "url": "/wether-app/index.html"
   }
 ];
